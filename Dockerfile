@@ -1,4 +1,4 @@
-FROM  crowdsecurity/cs-openresty-bouncer:latest
+FROM  crowdsecurity/lua-bouncer-plugin:latest
 
 RUN apk add bash
 
